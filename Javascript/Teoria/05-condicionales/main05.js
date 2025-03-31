@@ -8,9 +8,9 @@ sino {imprime eres menor}*/
 if (edad >= 18){
     console.log("eres adulto")
 } else if (edad >= 50) {
-    console.log("eres viejo")
+    console.log("eres mayor")
 } else{
-    console.log("eres un chaval")
+    console.log("eres menor")
 }
 
 //switch
