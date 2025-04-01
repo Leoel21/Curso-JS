@@ -1,8 +1,4 @@
-//Hola mundo impreso desde la consola
-console.log("Hello world")
+//Podemos imprimir un hola mundo directamente en la consola
+console.log('Hola mundo')
 
-
-//Hola mundo desde una variable
-var holaMundo = "Hola mundo"
-console.log(holaMundo)
-
+//console hace referencia a la consola del navegador y el log es el metodo que se utiliza para imprimir algo en la consola
